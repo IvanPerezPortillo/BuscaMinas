@@ -10,8 +10,8 @@ per a obtenir dit benefici (començant per 0)
 Altres exemples:
     [9, 11, 8, 4, 7, 10] retorna 6
     [13, 7, 4, 8, 7, 6] retorna 4
-    [4, 7, 2, 6, 7, 6] retorna 5
-    [5, 7, 9, 8, 7, 10] retorna 5
+    [4, 7, 2, 6, 7, 6] retorna 5.
+    [5, 7, 9, 8, 7, 10] retorna 5.
 
 /**
  * conf_t1
